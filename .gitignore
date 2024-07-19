@@ -1,0 +1,5 @@
+# python仮想環境用のフォルダは無視　rm -rf venv　で削除もできる
+venv/
+
+#
+.env
